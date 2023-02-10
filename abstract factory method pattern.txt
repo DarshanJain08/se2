@@ -1,0 +1,8 @@
+Create an interface for Shapes.
+/////////////////////////////////////
+Shape.java
+
+public interface Shape {
+   void draw();
+}
+
